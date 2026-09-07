@@ -128,3 +128,6 @@ anchor test
 ## License
 
 No license has been specified for this project yet.
+
+<img width="735" height="306" alt="Vault tests" src="https://github.com/user-attachments/assets/a7068e50-ff61-4ed4-9fed-84e46f85dc55" />
+
